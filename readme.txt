@@ -1,1 +1,1 @@
-Czas start ;)
+Czas start! ;)
