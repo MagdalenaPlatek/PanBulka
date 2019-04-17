@@ -1,1 +1,1 @@
-repozytorun
+Czas start ;)
